@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Creative%20Development-blueviolet" />
+  <img src="https://img.shields.io/badge/Focus-Creative%20Developer-blueviolet" />
   <img src="https://img.shields.io/badge/Frontend-Development-ff69b4" />
   <img src="https://img.shields.io/badge/Backend-Development-8A2BE2" />
   <img src="https://img.shields.io/badge/Design-%26%20Development-DA70D6" />
