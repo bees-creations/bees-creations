@@ -49,14 +49,14 @@
   I love the overlap between design and development. I'm happiest when I get to use both sides of my brain — the logical problem-solving side and the creative side.
 </p>
 
-<ul>
-  <li>✦ Creating clean, thoughtful interfaces</li>
-  <li>✦ Turning ideas into interactive experiences</li>
-  <li>✦ Branding and visual identity</li>
-  <li>✦ Typography, colour and all the tiny details</li>
-  <li>✦ Making websites feel a little more <i>special</i></li>
-  <li>✦ Taking something functional and making it pretty</li>
-</ul>
+<br>
+
+<p>✦ Creating clean, thoughtful interfaces</p>
+<p>✦ Turning ideas into interactive experiences</p>
+<p>✦ Branding and visual identity</p>
+<p>✦ Typography, colour and all the tiny details</p>
+<p>✦ Making websites feel a little more <i>✨special✨</i></p>
+<p>✦ Taking something functional and making it pretty</p>
 
 <br>
 
