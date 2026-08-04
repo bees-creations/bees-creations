@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Creative%20Developer-blueviolet" />
-  <img src="https://img.shields.io/badge/Frontend-Development-ff69b4" />
-  <img src="https://img.shields.io/badge/Backend-Development-8A2BE2" />
-  <img src="https://img.shields.io/badge/Design-%26%20Development-DA70D6" />
+  <img src="https://img.shields.io/badge/Focus-Creative%20Developer-F7A8C4" />
+  <img src="https://img.shields.io/badge/Frontend-Development-E879A9" />
+  <img src="https://img.shields.io/badge/Backend-Development-C45AA9" />
+  <img src="https://img.shields.io/badge/Design-%26%20Development-8B5BAE" />
 </p>
 
 <img width="100%" src="https://github.com/bee2805/bee2805/blob/main/assets/github_profile_pic.png" alt="cover" />
